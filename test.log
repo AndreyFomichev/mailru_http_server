@@ -1,4 +1,4 @@
-andrey@notebook:~$ tarantool test.lua
+andrey@notebook:~$ tarantool testcases.lua
 8080
 TAP version 13
 1..2
